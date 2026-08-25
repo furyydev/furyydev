@@ -1,17 +1,17 @@
 {
   "username": "furyydev",
-  "generated_at": "2026-08-24T04:03:06Z",
+  "generated_at": "2026-08-25T03:57:44Z",
   "range": {
     "start": "2025-08-24",
-    "end": "2026-08-24"
+    "end": "2026-08-25"
   },
   "total_contributions": 235,
   "active_days": 87,
   "avg_per_active_day": 2.7,
   "current_streak": {
-    "length": 2,
-    "start": "2026-08-22",
-    "end": "2026-08-23"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
     "length": 5,
@@ -1539,6 +1539,10 @@
     },
     {
       "date": "2026-08-24",
+      "count": 0
+    },
+    {
+      "date": "2026-08-25",
       "count": 0
     }
   ]
